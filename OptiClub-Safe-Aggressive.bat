@@ -846,7 +846,6 @@ sc config SharedRealitySvc start= Disabled
 sc config RmSvc start= Disabled
 sc config RemoteRegistry start= Disabled
 
-sc config PhoneSvc start= Disabled
 sc config MapsBroker start= Disabled
 sc config EFS start= Disabled
 sc config DiagTrack start= Disabled
